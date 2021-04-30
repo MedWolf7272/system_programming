@@ -5,5 +5,9 @@ docker
 assambler 101
 # lab 3
 combinate programming
-# lab 3
+# lab 4
 proceses
+# lab 5
+threads
+# lab 6
+synchronization
