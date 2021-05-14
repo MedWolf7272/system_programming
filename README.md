@@ -11,3 +11,5 @@ proceses
 threads
 # lab 6
 synchronization
+# lab 7
+sockets
